@@ -31,3 +31,14 @@
 https://discord.com/channels/454734546869551114/966239886829060096/976175679378972672
 https://discord.com/channels/454734546869551114/966239886829060096/976151447735521280
 https://discord.com/channels/454734546869551114/966239886829060096/974944525304868904
+
+## Router Track Mission 2 (09.05-16.05)
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+   Router address: https://testnet.amarok.connextscan.io/router/0xd7fbe8856dc391468373b422f469d1a30879431b
+   Liquidity on Rinkeby: 
+   [https://rinkeby.etherscan.io/tx/0x9053f91de06fa73502c283615bd2fa3c737b56974eb7d90794265f8712e604fc](https://rinkeby.etherscan.io/tx/0x29e1733b2c174f69d16f44b0a4fab67687f479611a4cc40e6cee58260ee4802b)
+   Liquidity on Kovan: 
+   [https://kovan.etherscan.io/tx/0xd8031a12bcc72fc80f03bc113c03f5f61586837577a671a2d03911b1122b73a2]
+   (https://kovan.etherscan.io/tx/0xd8031a12bcc72fc80f03bc113c03f5f61586837577a671a2d03911b1122b73a2)
+   
+  
